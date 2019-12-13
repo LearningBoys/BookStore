@@ -1,0 +1,41 @@
+#body {
+    margin: 0px;
+}
+
+#bg {
+    width: 100%;
+    height: 582px;
+    background-color: lavender;
+    margin-top: 0px
+}
+
+#img_style {
+    background-color: salmon;
+    width: 480px;
+    height: 380px;
+    position: absolute;
+    right: 40px;
+    margin-top: 10px;
+}
+
+#header {
+    border: black solid 1px;
+    width: 100%;
+    height: 120px;
+    margin-top: 0px;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 80px;
+    background-color: antiquewhite;
+}
+
+#btnOk {
+    font-style: revert;
+    font-size: 18px;
+    letter-spacing: 25px;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 280px;
+    height: 30px;
+    color: cornflowerblue
+}
